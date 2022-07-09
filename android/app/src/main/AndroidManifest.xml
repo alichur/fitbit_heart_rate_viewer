@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fitbit_heart_rate_viewer">
+    package="com.spicynzapps.heartrateviewer">
    <application
         android:label="fitbit_heart_rate_viewer"
         android:name="${applicationName}"
